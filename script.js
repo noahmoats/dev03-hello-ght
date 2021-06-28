@@ -1,6 +1,6 @@
 //jQuery
 $(document).ready(function () {
-  console.log("Hello, CodePen!");
+  console.log("Hello, GetHub!");
   //JavaScript
   // Select the element and store it in a variable.
   var el = document.getElementById("my-greeting");
